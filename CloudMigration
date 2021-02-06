@@ -1,0 +1,6 @@
+We are having frequent issues while testing  the informatica workflows in Cloud. we are doing this as part of the Cloud Migration Project from On-Prem Servers to Cloud Azure Servers.
+
+We are checking the Firewall request to open the connectivity between databases which are in both OnPrem, Cloud and Informatica server hosted on Cloud.if we have databases in Cloud then we are creating new connections and testing the workflows. if the databases are in OnPrem we are using the existing connections.
+We have different Application connections like SAP,Salesforce,Hyperion and we are making sure that we connect to these Applications without any issues from New Azure Informatica Servers.
+
+
